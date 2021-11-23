@@ -5,7 +5,7 @@ import { Wrapper, Item } from './style'
 const Footer = () =>
   <Wrapper>
     <Item position='left'>
-      Made (with love) in {getCurrentYear()}
+      Created (with love) in {getCurrentYear()}
     </Item>
     <Item position='right'>
       <span>P.I. 03671100984&nbsp;-&nbsp;</span>
